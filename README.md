@@ -79,4 +79,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Contributions are welcome! If you have any ideas or find a bug, please open an issue or submit a pull request.
 
 ---
-Made with ❤️ by [Your Name]
+Made with ❤️ by Aman Singh
